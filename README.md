@@ -2,6 +2,7 @@
 
 [Day 1](day1/index.html)
 [Day 2](day2/index.html)
+[Day 3](day3/index.html)
 
 Author: [https://bschwb.github.io/](https://bschwb.github.io/)
 
