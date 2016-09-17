@@ -6,6 +6,7 @@
 [Day 4](day4/index.html)
 [Day 5](day5/index.html)
 [Day 6](day6/index.html)
+[Day 7](day7/index.html)
 
 Author: [https://bschwb.github.io/](https://bschwb.github.io/)
 
